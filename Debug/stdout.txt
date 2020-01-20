@@ -1,0 +1,12 @@
+
+Punto seleccionado: (0.000000000000000, 0.000000000000000)
+Escala: 0.005000000000000
+Calculando fractal... HECHO
+
+Punto seleccionado: (-0.060000000000000, 0.060000000000000)
+Escala: 0.004500000000000
+Calculando fractal... HECHO
+
+Punto seleccionado: (0.012000000000000, -0.025500000000000)
+Escala: 0.001528282090268
+Calculando fractal... HECHO

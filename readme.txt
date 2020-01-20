@@ -1,0 +1,5 @@
+En esta carpeta se encuentra todo lo necesario para poder compilar el programa "El Aleph y sus Espejos" en un entorno Windows, con Microsoft Visual C.
+
+Antes de compilar, es necesario tener las librerías y encabezados de SDL, SDL_ttf, SDL_image y SDL_draw. Para ello, se incluyen en las carpetas lib e include respectivamente. Es necesario copiar el contenido de la carpeta lib en la carpeta donde Visual C tenga sus librerías (por ejemplo: C:\Archivos de programa\Microsoft Visual Studio\VC98\Lib), y también se debe copiar el contenido de la carpeta include en donde Visual C tenga sus encabezados (por ejemplo: C:\Archivos de programa\Microsoft Visual Studio\VC98\Include). Una vez hecho esto será posible compilar sin problemas.
+
+El proyecto de Visual C se denomina Aleph.dsw. Basta abrirlo y en el menú Build, si se selecciona la opción Rebuild All se compilará el programa. El ejecutable se crea en la carpeta Debug.
